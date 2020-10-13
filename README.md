@@ -1,2 +1,2 @@
-# mac_changer_anonymizing
-Anonymizing your system for penetration testing
+# mac_changer
+Anonymizing your system (MAC Address) for penetration testing
